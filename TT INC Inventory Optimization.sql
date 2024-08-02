@@ -138,10 +138,4 @@ From Sales S
 Join product P On S.productid = P.productid
 Group By P.productcategory
 Order BY Sales_Quantity;
-Insights
-The analysis indicates no direct correlation between sales quantity by product category and
-promotions. For instance, Electronics leads in sales quantity with only 212 promotions, while
-Home Appliances has the highest number of promotions but lower sales volume.
-Recommendation
-Reduce overall investment expenditures and reallocate funds to enhance production of topselling
-products.
+
